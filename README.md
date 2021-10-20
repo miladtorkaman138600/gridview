@@ -1,7 +1,7 @@
 [
   {
     "mode": "2",
-    "imag": "https://s4.uupload.ir/filelink/PBSDFk4UswYe_33eda7f426/vid_20211011_021457_858_cfwa.mp4", 
+    "imag": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/776b4d117b4e6b6edccab4fce277e73638780201-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjI4NTdiNDNlMmMwNWIwMjE5ZjQ1NGJjZmIwMDRmNGNhIiwiZXhwIjoxNjM0NzcwNTg3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.FkTByTXCTlvyltnQAxo_0_S7yw6sn0tF1NRZyjPa_94", 
     "namber": "0",
     "text": "طنز"
   }, 
