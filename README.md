@@ -1,13 +1,7 @@
 [
   {
     "mode": "2",
-    "imag": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/776b4d117b4e6b6edccab4fce277e73638780201-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjI4NTdiNDNlMmMwNWIwMjE5ZjQ1NGJjZmIwMDRmNGNhIiwiZXhwIjoxNjM0NzcwNTg3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.FkTByTXCTlvyltnQAxo_0_S7yw6sn0tF1NRZyjPa_94", 
-    "namber": "0",
-    "text": "طنز"
-  }, 
-  {
-    "mode": "2",
-    "imag": "https://hajifirouz5.cdn.asset.aparat.com/aparat-video/e75f79331872d1352b287f38225055e938617405-480p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImIxZGVmM2RlZTcwNjA2ZjUwZmIwZjg3NDZkNmExNDJkIiwiZXhwIjoxNjM0NzY2NTIwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.kRJPNChHqbIteobU1E1n_0cAkvX9SN_ERDbCOPQ7Qcg", 
+    "imag": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/ecac02c1d6d897bb3f47007fdd76656b38673587-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJhMGExZDc3Yzk5MDA1NDQ2OWJmMDAwZjEzMWFmMmY3IiwiZXhwIjoxNjM0ODM5MTA4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.0rF-cSLWYrKbg5WCoiavQlkd8Zm8_i7zQ-Qo9GHoRDI", 
     "namber": "0",
     "text": "طنز"
   }, 
