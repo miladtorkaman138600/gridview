@@ -1,7 +1,7 @@
 [
   {
     "mode": "2",
-    "imag": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/ecac02c1d6d897bb3f47007fdd76656b38673587-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJhMGExZDc3Yzk5MDA1NDQ2OWJmMDAwZjEzMWFmMmY3IiwiZXhwIjoxNjM0ODM5MTA4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.0rF-cSLWYrKbg5WCoiavQlkd8Zm8_i7zQ-Qo9GHoRDI", 
+    "imag": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/ecac02c1d6d897bb3f47007fdd76656b38673587-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImZkYzkwNWFhMTZiZjRiYjJjMzUwNzU1MjZiZTZlMzVlIiwiZXhwIjoxNjM1MDI1NzEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.oMlh4WVs6gfuwDeels0vOfygDzYi16rSpSPNSfNOrI8", 
     "namber": "0",
     "text": "طنز"
   }, 
