@@ -6,9 +6,9 @@
     "text": ""
   }, 
   {
-    "mode": "1",
-    "imag": "https://8pic.ir/uploads/IMG-20211026-150454-614_03b33.jpg",
-    "name": "ریاضی نهم", 
-    "text": "کار در کلاس ریاضی نهم آمار6"
+    "mode": "2",
+    "imag": "https://www.youconvertit.com/getfile.php?cid=1b176516&ofn=d300e0b2.3g2",
+    "name": "آزمایش علوم", 
+    "text": ""
   } 
 ]
