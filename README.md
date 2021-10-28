@@ -10,5 +10,10 @@
     "imag": "https://www.youconvertit.com/getfile.php?cid=1b176516&ofn=d300e0b2.3g2",
     "name": "آزمایش علوم", 
     "text": ""
-  } 
+  },
+  {
+    "mode": "2",
+    "imag": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/1fd964c0951e89ca6053c0d7e76feacd38885786-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM3MjA3Yjc1YzZiYWI3OWMzMTFjYTZhZDQwYzQyNzkzIiwiZXhwIjoxNjM1NDQxMTg3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.2UEIRr5H-Qz4tyGX0-u-Dz-Pyxu9sr6_VnSXcgwhevk",
+    "name": "باب اسفنجی",
+    "text": ""
 ]
