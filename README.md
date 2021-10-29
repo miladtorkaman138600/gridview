@@ -7,8 +7,8 @@
   },
   {
     "mode": "1", 
-    "imag": "https://www.youconvertit.com/getfile.php?cid=cf091206&ofn=376d7e80.3g2",
-    "name": "طنز", 
+    "imag": "https://8pic.ir/uploads/VID-20211024-004656-528.mp4",
+    "name": "آزمایش", 
     "text": ""
   }
 ]
