@@ -9,6 +9,6 @@
     "mode": "2", 
     "imag": "https://hajifirouz3.cdn.asset.aparat.com/aparat-video/1d7f8f86512973d214f9411669b3e3b638861639-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjcyZTU2MGEzNTY0MzIwZmE0N2MzMTVmN2RmODkxNmMwIiwiZXhwIjoxNjM1NTI2Njk0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.T6uMAT9CoYYtgnF-O38bj6-fgp77Gakk0J-vK_bCNq8",
     "name": "باب اسفنجی", 
-    "text": ""
+    "text": "داستان جال و هیجان انگیز"
   }
 ]
