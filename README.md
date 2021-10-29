@@ -7,8 +7,8 @@
   },
   {
     "mode": "1", 
-    "imag": "https://www.youconvertit.com/getfile.php?cid=e3f10d8f&ofn=6e48e0ea.png",
-    "name": "کاغذ", 
+    "imag": "https://www.youconvertit.com/getfile.php?cid=cf091206&ofn=376d7e80.3g2",
+    "name": "طنز", 
     "text": ""
   }
 ]
