@@ -13,7 +13,7 @@
   },
   {
     "mode": "2",
-    "imag": "https://8pic.ir/do.php?downf=VID-20211024-004656-528_f7e10.mp4",
+    "imag": "https://8pic.ir/uploads/VID-20211011-020038-818.mp4",
     "name": "آزمایش",
     "text": ""
   }
