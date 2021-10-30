@@ -6,9 +6,14 @@
     "text": "حسرت یعنی تو"
   },
   {
-    "mode": "1", 
+    "mode": "2", 
     "imag": "https://8pic.ir/uploads/VID-20211024-004656-528.mp4",
     "name": "آزمایش", 
+    "text": ""
+  },
+    "mode": "2",
+    "imag": "",
+    "name": "هکر در 2 دقیقه",
     "text": ""
   }
 ]
