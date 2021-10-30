@@ -7,12 +7,6 @@
   },
   {
     "mode": "2",
-    "imag": "https://aspb24.cdn.asset.aparat.com/aparat-video/6bfbd39a52a57b23bc93fd3bc5bfbd2a27198270-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ1ZmMwNjM3NjllOGMyMzFlYjdjYzk2ODRkMTU3NzNkIiwiZXhwIjoxNjM1NjA5ODA5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.tfpjCpIjpzKSJGU7zsdA58AzFBACmZT8F1_khUdzGxY",
-    "name": "هکر در 2 دقیقه",
-    "text": ""
-  },
-  {
-    "mode": "2",
     "imag": "https://8pic.ir/uploads/VID-20211011-020038-818.mp4",
     "name": "آزمایش",
     "text": ""
